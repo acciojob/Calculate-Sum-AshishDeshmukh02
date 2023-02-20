@@ -8,5 +8,5 @@ function calculateSum() {
 			let sum = n1 + n2;
 
 			// Display the sum
-			document.getElementById("sum").innerHTML = "The sum is: " + sum;
+			document.getElementById("Sum").innerHTML = "The sum is: " + sum;
 		}
